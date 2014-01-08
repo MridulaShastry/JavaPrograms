@@ -1,0 +1,6 @@
+import java.awt.*;
+
+public class RootApplet extends javax.swing.JApplet {
+	
+	int number;
+}
